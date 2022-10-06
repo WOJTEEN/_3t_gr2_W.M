@@ -1,3 +1,5 @@
+package Podstawy;
+
 public class Firma {
 
     public static void main(String[] args){
@@ -8,7 +10,7 @@ public class Firma {
     money = 4.6;
     double income;
     income = money * sale;
-        System.out.print("Firma sprzeda: " + income + " mln zł");
+        System.out.print("Podstawy.Firma sprzeda: " + income + " mln zł");
 
 
     }

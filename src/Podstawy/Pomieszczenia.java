@@ -1,3 +1,5 @@
+package Podstawy;
+
 public class Pomieszczenia {
     public static void main(String[] args){
 

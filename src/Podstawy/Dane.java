@@ -1,3 +1,5 @@
+package Podstawy;
+
 public class Dane {
     public static void main(String[] args) {
 

@@ -1,3 +1,5 @@
+package Podstawy;
+
 public class Akcje {
     public static void main(String[] args){
 

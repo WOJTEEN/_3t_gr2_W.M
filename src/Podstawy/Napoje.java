@@ -1,4 +1,4 @@
-package zaokraglanie;
+package Podstawy;
 
 public class Napoje {
 

@@ -1,3 +1,5 @@
+package Podstawy;
+
 public class Zmiennedwa {
     public static void main(String[] args){
 
